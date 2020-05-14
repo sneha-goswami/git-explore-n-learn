@@ -16,7 +16,7 @@ l	    |
 |   o o o   |
 |    o o    |
 |     o     |
-|           |
-|           |
-|           |
-|___________|
+l	    |OOOOOOOOOOOOOOOOOOO
+|                              |
+|                              |
+|OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
