@@ -1,27 +1,10 @@
-  ^ ^
- |  |
- ___
-LLLLLLLLLLLLLLLLLL
-  KKKKKKKK
-
-MMMM
-l
-l
-l
-l
-l
-l
-l
-l
-l
-l
-l
-l
-l
-l
-l
-l
-l
-l
-l
-
+      ^
+     / \
+    /| |\
+   /     \
+  /       \
+ /         \
+/           \
+|           |
+|           |
+|___________|
