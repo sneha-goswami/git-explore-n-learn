@@ -1,27 +1,12 @@
-  ^ ^
- |  |
- ___
-LLLLLLLLLLLLLLLLLL
-  KKKKKKKK
-
-MMMM
-l
-l
-l
-l
-l
-l
-3
-l
-l
-l
-l
-l
-l
-l
-2
-l
-l
-l
-l
-
+      ^
+     / \
+    /| |\
+   /     \
+  /       \
+ /         \
+/           \
+|           |
+l	    |
+l	    |
+|           |
+|___________|
