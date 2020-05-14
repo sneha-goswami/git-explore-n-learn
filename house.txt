@@ -1,8 +1,8 @@
       ^_____________________
      /_\
-    /|2|\
+    /|3|\
    /     \
-  /       \
+  /       \                |
  /         \               |
 /           \______________|
 |           |
@@ -17,6 +17,6 @@ l	    |
 |    o o    |
 |     o     |
 l	    |OOOOOOOOOOOOOOOOOOO
+|   Make the changes                           |
 |                              |
-|             Dog watches here |
 |OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
